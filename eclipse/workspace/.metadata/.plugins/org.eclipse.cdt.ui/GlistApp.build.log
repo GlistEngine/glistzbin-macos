@@ -1,0 +1,7 @@
+17:31:49 **** Incremental Build of configuration Release for project GlistApp ****
+/usr/bin/make -j 7 all 
+[ 97%] Built target GlistEngine
+[100%] Built target GlistApp
+
+17:31:50 Build Finished. 0 errors, 0 warnings. (took 879ms)
+
