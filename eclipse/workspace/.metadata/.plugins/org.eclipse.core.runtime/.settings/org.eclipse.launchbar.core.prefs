@@ -1,0 +1,11 @@
+LaunchTargetManager/configs/GlistApp\ Release=org.eclipse.launchbar.core.launchTargetType.local\:Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=aarch64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=macosx
+activeLaunchTarget=null\:---
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:GlistApp Release
+eclipse.preferences.version=1
+org.eclipse.launchbar.core.descriptorType.default\:GlistApp\ Release/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:GlistApp\ Release/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:GlistEngine\ Release/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:GlistEngine\ Release/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
